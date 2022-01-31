@@ -49,3 +49,54 @@
     float:right;
     
 }
+
+.main-text{
+    margin: 2% 0% 0% 0%;
+}
+
+.highlighter{
+    background-color: yellow;
+}
+
+.list{
+    margin: 2% 0% 0% 1.3%;
+}
+
+.main-table{
+    margin: 2% 0% 0% 0%;
+    font-size: small;
+    width: 100%;
+    box-sizing: border-box;
+}
+   
+ 
+
+.row{
+    background-color: rgb(15, 195, 240);
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.row.head-t{
+
+}
+    
+    
+
+.small{
+    width: 25%;
+    margin: 0 auto;
+    padding: 0% 0% 0% 0%;
+    text-align: left; 
+    color: black;
+}
+
+.row.large{
+    width: 50%;
+    margin: 0 auto;
+    padding: 0% 0% 0% 0%;
+    text-align: left; 
+}
+
+
+
