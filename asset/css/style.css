@@ -67,18 +67,26 @@
     font-size: small;
     width: 100%;
     box-sizing: border-box;
+    border-spacing: 0;
 }
    
  
 
 .row{
-    background-color: rgb(15, 195, 240);
     background-size: cover;
     margin: 0 auto;
+    
+    box-sizing: border-box;
 }
 
 .row.head-t{
+    color: aliceblue;
+     background-color: rgb(15, 195, 240);
 
+}
+
+.row.light-b{
+    background-color: cyan;
 }
     
     
@@ -86,15 +94,12 @@
 .small{
     width: 25%;
     margin: 0 auto;
-    padding: 0% 0% 0% 0%;
     text-align: left; 
-    color: black;
 }
 
 .row.large{
     width: 50%;
     margin: 0 auto;
-    padding: 0% 0% 0% 0%;
     text-align: left; 
 }
 
