@@ -22,3 +22,30 @@
     background-repeat: no-repeat;
     margin: 2% 80% 0% 1%;
 }
+
+.main-container{
+    margin: 0.5% 0 0 0.5% ;
+}
+
+.text-special{
+    color: deepskyblue;
+}
+
+.img-main{
+    padding: 33% 50% 0% 0%;
+    margin: 2% 0% 0% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.uno{
+    background-image: url(../img/tim-1.jpg);
+    float:left;
+}
+
+
+.due{
+    background-image: url('../img/tim-2.jpg');
+    float:right;
+    
+}
