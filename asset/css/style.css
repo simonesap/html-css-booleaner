@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.title{
+    padding: 0.5% 0;
+    background-image: url('../img/pattern.png');
+    background-size: 20%;
+    background-color: rgb(12, 171, 224);
+}
+
+.title-img{
+    padding: 5% 80% 0 0;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    margin: 2% 80% 0% 1%;
+}
